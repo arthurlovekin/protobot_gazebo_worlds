@@ -28,6 +28,7 @@ Tutorials/Documentation
     - [Spawn URDF](https://gazebosim.org/docs/latest/spawn_urdf/)
 - [Gazebosim/ros_gz (official repo of Gazebo)](https://github.com/gazebosim/ros_gz)
     - [ros_gz_sim package docs](https://github.com/gazebosim/ros_gz/tree/ros2/ros_gz_sim)
+- [Articulated Robotics: Upgrading to the new Gazebo](https://www.youtube.com/watch?v=fH4gkIFZ6W8) (the [git diff](https://github.com/joshnewans/articubot_one/commit/e8a355fe8eb52c5a40a5240347bc204350a61266#diff-72e9e1fd8c3442d0d4c38ef820c75a43b9abecf357e791b4ffeaa1c5a9fe30ec) is helpful)
 
 
 More Notes from the development process
